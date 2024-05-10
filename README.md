@@ -1,4 +1,5 @@
 # Student-Engagement-Analysis-in-Virtual-Class-using-NLP
+
 ## Project Name: 
 ### VirtualClass Insight: Analyzing Student Engagement through NLP
 
@@ -12,4 +13,15 @@ VirtualClass Insight is a Streamlit website where students upload their notes, w
 1. Run `pip install -r requirements.txt` to install the necessary dependencies.
 2. Execute `python -m streamlit run main.py` to launch the Streamlit web application.
 
-Feel free to integrate these changes into the GitHub readme for clearer communication.
+
+## Keys to Note:
+
+1. Prototype Status: VirtualClass Insight is currently a prototype showcasing an innovative approach to assessing student engagement in virtual classrooms. While functional, it's important to note that this project is in its early stages of development.
+
+2. Limitations: VirtualClass Insight, as with any prototype, has inherent limitations. These limitations have been thoroughly documented in the associated research paper and report. Understanding these constraints is essential for interpreting the insights provided by the system accurately.
+
+3. Implementation Details : I have not implemented all the modules that i have specified on the paper here i implemented the model which is the curcial part of the project 
+
+## Wokflow Understaning
+
+1.Follow the Screenshots to understand the workflow Otherwise Refer the Workflow video attached to this project
